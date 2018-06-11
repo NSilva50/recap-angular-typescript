@@ -1,0 +1,11 @@
+.color-red {
+    color: red;
+}
+
+.background-yellow {
+    background-color: yellow;
+}
+
+.hide-text {
+    opacity: 0;
+}
